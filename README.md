@@ -112,14 +112,12 @@ Me chamo Hugo Takeda, tenho 20 anos e sou estudante de Eng. de Software pela PUC
 <img 
     align="left" 
     alt="GitHub Stats"
-    height="200px" 
-    style="padding-right: 10px;" 
+    height="200px"
     src="https://github-readme-stats.vercel.app/api?username=Detestably&show_icons=true&theme=dark&locale=pt-br" 
 />
 <img 
     align="left" 
     alt="GitHub Stats"
     height="200px" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detestably&custom_title=Tecnologias&lang_count=9" 
 />
