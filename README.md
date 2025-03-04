@@ -9,7 +9,7 @@ Me chamo Hugo Takeda, tenho 20 anos e sou estudante de Eng. de Software pela PUC
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIzCWdx_XorHLOz_pdEN6qg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     <a href="https://github.com/detestably?tab=repositories&sort=stargazers">
         <img 
@@ -112,13 +112,13 @@ Me chamo Hugo Takeda, tenho 20 anos e sou estudante de Eng. de Software pela PUC
 <div style="display: flex; align-items: center;">
     <img 
         alt="GitHub Stats"
-        height="200px" 
+        height="150px" 
         style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api?username=detestably&show_icons=true&theme=dark&locale=pt-br" 
     />
     <img 
         alt="GitHub Stats"
-        height="200px" 
+        height="150x" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detestably&theme=dark&layout=compact&custom_title=Tecnologias&lang_count=9" 
     />
 </div>
