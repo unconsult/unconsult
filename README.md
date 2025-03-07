@@ -1,8 +1,5 @@
-# Hugo Takeda
 
 **`Desenvolvedor Back-End`**
-
-Me chamo Hugo Takeda, tenho 20 anos e sou estudante de Engenharia de Software na PUC-PR, em Curitiba. Tenho muito interesse pelo desenvolvimento back-end, onde curto de trabalhar com arquitetura de sistemas, APIs e automação. No meu tempo livre, desenvolvo bots para o Discord, explorando novas tecnologias e aprimorando minhas habilidades em programação.
 
 <p align="left">
     <a href="https://www.youtube.com/@detestably?sub_confirmation=1">
